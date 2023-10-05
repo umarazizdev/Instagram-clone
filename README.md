@@ -15,7 +15,7 @@ This is an Instagram clone built using the Flutter framework. The goal of this p
 ## Features
 
 - User authentication (sign up and log in using email,phonenumber and facebook)
-- Home feed with posts from followed users
+- Home feed with posts from all users
 - Post creation
 - Like and comment on posts
 - Follow and unfollow users
