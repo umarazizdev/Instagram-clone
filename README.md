@@ -65,4 +65,4 @@ If you would like to contribute to this project, please follow the [contribution
 
 ## Contact
 
-For questions or feedback, feel free to contact me on umer.aziz.dev@gmail.com
+For questions or feedback, feel free to contact me on umar.aziz.dev@gmail.com
