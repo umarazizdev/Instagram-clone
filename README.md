@@ -1,4 +1,16 @@
 # 🔥 Instagram Clone in Flutter
+## 👀 Overview
+
+This is an Instagram clone built using the Flutter framework. The goal of this project is to replicate the core features and user interface of the Instagram mobile app. This project serves as both a learning resource for Flutter developers and a demonstration of Flutter's capabilities for building complex user interfaces.
+
+## ✨ Features
+
+- **🔐 User authentication**: Sign up and log in using email, phone number, and Facebook.
+- **🏠 Home feed**: View posts from all users.
+- **✍️ Post creation**: Create new posts.
+- **❤️ Interactions**: Like and comment on posts.
+- **👥 Social features**: Follow and unfollow users.
+- **👤 User profile**: View posts, followers, and following lists.
 
 ## 📸 Screenshots
 
@@ -14,18 +26,6 @@
 |---|---|
 | ![Followers & Following](assets/screenshot/7.jpg) | ![Settings](assets/screenshot/8.jpg) |
 
-## 👀 Overview
-
-This is an Instagram clone built using the Flutter framework. The goal of this project is to replicate the core features and user interface of the Instagram mobile app. This project serves as both a learning resource for Flutter developers and a demonstration of Flutter's capabilities for building complex user interfaces.
-
-## ✨ Features
-
-- **🔐 User authentication**: Sign up and log in using email, phone number, and Facebook.
-- **🏠 Home feed**: View posts from all users.
-- **✍️ Post creation**: Create new posts.
-- **❤️ Interactions**: Like and comment on posts.
-- **👥 Social features**: Follow and unfollow users.
-- **👤 User profile**: View posts, followers, and following lists.
 
 ## 🚀 Getting Started
 
