@@ -1,27 +1,33 @@
-# Instagram Clone in Flutter
+# 🔥 Instagram Clone in Flutter
 
-![App Screenshot](assets/screenshot/1.jpg)
-![App Screenshot](assets/screenshot/2.jpg)
-![App Screenshot](assets/screenshot/3.jpg)
-![App Screenshot](assets/screenshot/4.jpg)
-![App Screenshot](assets/screenshot/5.jpg)
-![App Screenshot](assets/screenshot/6.jpg)
-![App Screenshot](assets/screenshot/7.jpg)
+## 📸 Screenshots
 
-## Overview
+| Home Feed | Profile | Post Creation |
+|---|---|---|
+| ![Home Feed](assets/screenshot/1.jpg) | ![Profile](assets/screenshot/2.jpg) | ![Post Creation](assets/screenshot/3.jpg) |
+
+| Like & Comment | Explore | Authentication |
+|---|---|---|
+| ![Like & Comment](assets/screenshot/4.jpg) | ![Explore](assets/screenshot/5.jpg) | ![Authentication](assets/screenshot/6.jpg) |
+
+| Followers & Following | Settings |
+|---|---|
+| ![Followers & Following](assets/screenshot/7.jpg) | ![Settings](assets/screenshot/8.jpg) |
+
+## 👀 Overview
 
 This is an Instagram clone built using the Flutter framework. The goal of this project is to replicate the core features and user interface of the Instagram mobile app. This project serves as both a learning resource for Flutter developers and a demonstration of Flutter's capabilities for building complex user interfaces.
 
-## Features
+## ✨ Features
 
-- User authentication (sign up and log in using email,phonenumber and facebook)
-- Home feed with posts from all users
-- Post creation
-- Like and comment on posts
-- Follow and unfollow users
-- User profile with posts, followers, and following lists
+- **🔐 User authentication**: Sign up and log in using email, phone number, and Facebook.
+- **🏠 Home feed**: View posts from all users.
+- **✍️ Post creation**: Create new posts.
+- **❤️ Interactions**: Like and comment on posts.
+- **👥 Social features**: Follow and unfollow users.
+- **👤 User profile**: View posts, followers, and following lists.
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -53,16 +59,16 @@ Make sure you have Flutter and Dart installed on your local machine. If not, you
     flutter run
     ```
 
-## Contributing
+## 🤝 Contributing
 
 If you would like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
 
+## 🙏 Acknowledgments
 
-## Acknowledgments
+- The Flutter team for providing an amazing framework.
+- Instagram for inspiration and design ideas.
 
-- The Flutter team for providing an amazing framework
-- Instagram for inspiration and design ideas
+## 📬 Contact
 
-## Contact
+For questions or feedback, feel free to contact me at umar.aziz.dev@gmail.com.
 
-For questions or feedback, feel free to contact me on umar.aziz.dev@gmail.com
